@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="120. Triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125. Valid Palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121. Best Time to Buy and Sell Stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122. Best Time to Buy and Sell Stock II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="123. Best Time to Buy and Sell Stock III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124. Binary Tree Maximum Path Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="129. Sum Root to Leaf Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130. Surrounded Regions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131. Palindrome Partitioning.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="132. Palindrome Partitioning II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134. Gas Station.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136. Single Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137. Single Number II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myqsort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141. Linked List Cycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138. Copy List with Random Pointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="147. Insertion Sort List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148. Sort List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="150. Evaluate Reverse Polish Notation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142. Linked List Cycle II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139. Word Break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="143. Reorder List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127. Word Ladder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="126. Word Ladder II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128. Longest Consecutive Sequence .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="152. Maximum Product Subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="151. Reverse Words in a String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="155. Min Stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160. Intersection of Two Linked Lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="167. Two Sum II - Input array is sorted.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="169. Majority Element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="168. Excel Sheet Column Title.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="171. Excel Sheet Column Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="172. Factorial Trailing Zeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="189. Rotate Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="190. Reverse Bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="191. Number of 1 Bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="162. Find Peak Element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="165. Compare Version Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="166. Fraction to Recurring Decimal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="153. Find Minimum in Rotated Sorted Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="154. Find Minimum in Rotated Sorted Array II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="164. Maximum Gap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198. House Robber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="174. Dungeon Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="179. Largest Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="188. Best Time to Buy and Sell Stock IV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140. Word Break II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="128. Longest Consecutive Sequence.cpp">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>

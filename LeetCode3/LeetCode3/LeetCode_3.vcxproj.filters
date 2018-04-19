@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="41_firstMissingPositive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42_trappingRainWater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44_wildcardMatching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_permutations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47_permutationsII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48_rotateImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50_Pow(x, n).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51_nQueen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52_nQueensII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_maximumSubarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54_sipralMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_jumpGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56_mergeIntervals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59_spiralMatrixII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64_minimumPathSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66_plusOne.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65_validNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62_uniquePaths.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63_uniquePathsII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67_addBinary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61_rotateList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70_climbingStairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69_sqrt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68_textJustification.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71_simplifyPath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72_editDistance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73_setMatrixZeros.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74_searchA2DMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75_sortColors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76_minimumWindowString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="77_combinations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78_subsets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79_wordSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58. Length of Last Word.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57. Insert Interval.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60. Permutation Sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

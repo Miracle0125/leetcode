@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="200.Number of Islands.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="start.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202. Happy Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="207. Course Schedule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="204. Count Primes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206. Reverse Linked List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203. Remove Linked List Elements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201. Bitwise AND of Numbers Range.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="209. Minimum Size Subarray Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="213. House Robber II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217. Contains Duplicate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226. Invert Binary Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234. Palindrome Linked List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="235. Lowest Common Ancestor of a Binary Search Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="237. Delete Node in a Linked List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="220. Contains Duplicate III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="221. Maximal Square.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="222. Count Complete Tree Nodes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="224. Basic Calculator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="227. Basic Calculator II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="225. Implement Stack using Queues.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="229. Majority Element II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="231. Power of Two.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="236. Lowest Common Ancestor of a Binary Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="240. Search a 2D Matrix II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="238. Product of Array Except Self.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="242. Valid Anagram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="230. Kth Smallest Element in a BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="233. Number of Digit One.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="239. Sliding Window Maximum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="297. Serialize and Deserialize Binary Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="268. Missing Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283. Move Zeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="258. Add Digits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="257. Binary Tree Paths.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="263. Ugly Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="274. H-Index.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="275. H-Index II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="287. Find the Duplicate Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="290. Word Pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="299. Bulls and Cows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="279. Perfect Squares.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
